@@ -1,0 +1,13 @@
+* {
+	font-family: marioFont;
+}
+
+@font-face{
+	font-family: marioFont;
+	src: url("../assets/fonts/SuperMario256.ttf");
+}
+
+@font-face{
+	font-family: marioFont;
+	src: url("../assets/fonts/SuperMario256.eot");
+}
